@@ -14,14 +14,17 @@ For every level you beat you gain a point for surviving.
 Left Button:
   - Moves Yellow LED Clockwise 
   - As yellow LED moves it makes a sound
+
 Right Button:
   - Moves Yellow LED CounterClockwise
   - AS yellow LED moves it makes a sound
+
 Async Delay:
   - When it is expired will end game
   - Go to the next level
   - LEDs will go glow
   - Sound will be used
   - Will move ghost
+
 Slide Switch:
   - Will restart and start the game all over
